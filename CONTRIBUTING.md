@@ -34,9 +34,6 @@ If you wish to contribute code to the Rock-Paper-Scissors Game project, please f
 
 9. Once your PR is approved, it will be merged into the main repository, and your contributions will become part of the project.
 
-## Code of Conduct
-
-We expect all contributors to follow our [Code of Conduct](CODE_OF_CONDUCT.md) to ensure a positive and inclusive community environment. Please be respectful and considerate in all interactions.
 
 ## License
 
