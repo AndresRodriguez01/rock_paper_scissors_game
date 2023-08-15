@@ -1,10 +1,10 @@
-# Contributing to the Rock-Paper-Scissors Game
+# Contributing to the Rock Paper Scissors Game
 
-Thank you for your interest in contributing to the Rock-Paper-Scissors game! By contributing, you are helping make this project more enjoyable and engaging for players everywhere. We welcome your ideas, suggestions, bug reports, and code contributions.
+Thank you for your interest in contributing to the Rock Paper Scissors game! By contributing, you are helping make this project more enjoyable and engaging for players everywhere. We welcome your ideas, suggestions, bug reports, and code contributions.
 
 ## Ways to Contribute
 
-There are several ways you can contribute to the Rock-Paper-Scissors Game project:
+There are several ways you can contribute to the Rock Paper Scissors Game project:
 
 1. **Bug Reports**: If you encounter any bugs or issues while playing the game, please report them by [opening a new issue](https://github.com/AndresRodriguez01/rock-paper-scissors-game/issues) on GitHub. Be sure to provide detailed steps to reproduce the issue.
 
@@ -14,7 +14,7 @@ There are several ways you can contribute to the Rock-Paper-Scissors Game projec
 
 ## Code Contributions
 
-If you wish to contribute code to the Rock-Paper-Scissors Game project, please follow these steps:
+If you wish to contribute code to the Rock Paper Scissors Game project, please follow these steps:
 
 1. Fork the repository to your GitHub account.
 
@@ -37,6 +37,6 @@ If you wish to contribute code to the Rock-Paper-Scissors Game project, please f
 
 ## License
 
-By contributing to the Rock-Paper-Scissors Game project, you agree that your contributions will be licensed under the [MIT License](LICENSE).
+By contributing to the Rock Paper Scissors Game project, you agree that your contributions will be licensed under the [MIT License](LICENSE).
 
-Thank you for contributing to the Rock-Paper-Scissors Game project! Your efforts are valuable and help improve the game for everyone. If you have any questions or need assistance, feel free to reach out to the project maintainers.
+Thank you for contributing to the Rock Paper Scissors Game project! Your efforts are valuable and help improve the game for everyone. If you have any questions or need assistance, feel free to reach out to the project maintainers.
