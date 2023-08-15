@@ -6,9 +6,9 @@ Thank you for your interest in contributing to the Rock Paper Scissors game! By 
 
 There are several ways you can contribute to the Rock Paper Scissors Game project:
 
-1. **Bug Reports**: If you encounter any bugs or issues while playing the game, please report them by [opening a new issue](https://github.com/AndresRodriguez01/rock-paper-scissors-game/issues) on GitHub. Be sure to provide detailed steps to reproduce the issue.
+1. **Bug Reports**: If you encounter any bugs or issues while playing the game, please report them by [opening a new issue](https://github.com/AndresRodriguez01/rock_paper_scissors_game/issues/new) on GitHub. Be sure to provide detailed steps to reproduce the issue.
 
-2. **Feature Requests**: If you have any ideas for new features or improvements to the game, feel free to [create a new issue](https://github.com/AndresRodriguez01/rock-paper-scissors-game/issues) with the "feature request" label. Describe the feature and why you think it would be beneficial.
+2. **Feature Requests**: If you have any ideas for new features or improvements to the game, feel free to [create a new issue](https://github.com/AndresRodriguez01/rock_paper_scissors_game/issues/new) with the "feature request" label. Describe the feature and why you think it would be beneficial.
 
 3. **Code Contributions**: If you are a developer, you can contribute directly to the codebase by fixing bugs, implementing new features, or optimizing existing code. To contribute code, follow the guidelines in the next section.
 
