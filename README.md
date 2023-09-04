@@ -43,7 +43,7 @@ Whether you emerge as the reigning champion or the valiant competitor, enjoy the
 
 ## Credits
 
-This game was created by Andres Mauricio Rodriguez Grisales as a fun project to learn Python programming. Feel free to modify, share, and use the code as you wish.
+This game was created by Andres Mauricio Rodriguez Grisales as a fun project to practice Python programming. Feel free to modify, share, and use the code as you wish.
 
 ## License
 
